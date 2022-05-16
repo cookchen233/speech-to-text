@@ -1,0 +1,10 @@
+cache
+data-files
+log
+voice
+voice_bak
+trans_file
+console.log
+cache.gob
+.env
+CallRecordRecognition
